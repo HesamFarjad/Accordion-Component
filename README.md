@@ -27,6 +27,7 @@ Let's break down the code:
 
 
 
-<img width="1440" alt="Screenshot 2023-12-07 at 12 42 41" src="https://github.com/HesamFarjad/Accordion-Component/assets/81914229/8ea29369-b56e-4745-a4a3-e9c08a726073">
+
 <img width="1440" alt="Screenshot 2023-12-07 at 12 42 51" src="https://github.com/HesamFarjad/Accordion-Component/assets/81914229/145611e6-ca8c-474f-afe9-2960a8518ccf">
 <img width="1440" alt="Screenshot 2023-12-07 at 12 42 59" src="https://github.com/HesamFarjad/Accordion-Component/assets/81914229/8eb5c83a-309b-4e07-afd0-7912a3f1b6bf">
+<img width="1440" alt="Screenshot 2023-12-07 at 12 42 41" src="https://github.com/HesamFarjad/Accordion-Component/assets/81914229/8ea29369-b56e-4745-a4a3-e9c08a726073">
